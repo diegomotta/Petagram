@@ -1,13 +1,11 @@
-package com.curso.petagram.activity;
+package com.curso.coursera.activity;
 
-import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
-import android.view.View;
 
-import com.curso.petagram.R;
+import com.curso.coursera.R;
 
 public class AcercaDe extends AppCompatActivity {
 

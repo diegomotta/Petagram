@@ -1,4 +1,4 @@
-package com.curso.petagram;
+package com.curso.coursera;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

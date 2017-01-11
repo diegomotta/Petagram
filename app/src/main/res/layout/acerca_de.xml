@@ -4,7 +4,7 @@
     android:id="@+id/acerca_de"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.curso.petagram.activity.AcercaDe"
+    tools:context="com.curso.coursera.activity.AcercaDe"
     android:background="#f0f0f0">
 
     <include android:id="@+id/miActionBar"

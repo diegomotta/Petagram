@@ -1,25 +1,20 @@
-package com.curso.petagram.activity;
+package com.curso.coursera.activity;
 
 import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
-import com.curso.petagram.R;
-import com.curso.petagram.adapter.MascotaAdaptador;
-import com.curso.petagram.adapter.PageAdapter;
-import com.curso.petagram.fragment.PerfilFragment;
-import com.curso.petagram.fragment.RecyclerViewFragment;
-import com.curso.petagram.pojo.Mascota;
+import com.curso.coursera.R;
+import com.curso.coursera.adapter.PageAdapter;
+import com.curso.coursera.fragment.PerfilFragment;
+import com.curso.coursera.fragment.RecyclerViewFragment;
 
 import java.util.ArrayList;
 

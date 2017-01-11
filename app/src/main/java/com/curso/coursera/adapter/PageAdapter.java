@@ -1,4 +1,4 @@
-package com.curso.petagram.adapter;
+package com.curso.coursera.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

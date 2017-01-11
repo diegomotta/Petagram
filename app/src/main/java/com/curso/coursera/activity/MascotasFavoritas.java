@@ -1,4 +1,4 @@
-package com.curso.petagram.activity;
+package com.curso.coursera.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,9 +8,9 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.curso.petagram.R;
-import com.curso.petagram.adapter.FavoritoAdaptador;
-import com.curso.petagram.pojo.Mascota;
+import com.curso.coursera.R;
+import com.curso.coursera.adapter.FavoritoAdaptador;
+import com.curso.coursera.pojo.Mascota;
 
 import java.util.ArrayList;
 

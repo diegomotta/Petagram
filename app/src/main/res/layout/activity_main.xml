@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="com.curso.petagram.activity.MainActivity">
+    tools:context="com.curso.coursera.activity.MainActivity">
 
     <!--<include android:id="@+id/miActionBar"
         layout="@layout/actionbar"

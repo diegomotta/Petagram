@@ -1,4 +1,4 @@
-package com.curso.petagram;
+package com.curso.coursera;
 
 import org.junit.Test;
 

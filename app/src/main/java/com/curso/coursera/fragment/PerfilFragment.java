@@ -1,4 +1,4 @@
-package com.curso.petagram.fragment;
+package com.curso.coursera.fragment;
 
 
 import android.os.Bundle;
@@ -9,9 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.curso.petagram.R;
-import com.curso.petagram.adapter.FotoAdaptador;
-import com.curso.petagram.pojo.Foto;
+import com.curso.coursera.R;
+import com.curso.coursera.adapter.FotoAdaptador;
+import com.curso.coursera.pojo.Foto;
 import com.mikhaellopez.circularimageview.CircularImageView;
 import com.squareup.picasso.Picasso;
 

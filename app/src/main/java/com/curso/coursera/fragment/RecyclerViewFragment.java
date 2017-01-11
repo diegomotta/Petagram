@@ -1,4 +1,4 @@
-package com.curso.petagram.fragment;
+package com.curso.coursera.fragment;
 
 
 import android.content.Intent;
@@ -10,12 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.curso.petagram.R;
-import com.curso.petagram.activity.AgregarMascota;
-import com.curso.petagram.activity.MainActivity;
-import com.curso.petagram.activity.MascotasFavoritas;
-import com.curso.petagram.adapter.MascotaAdaptador;
-import com.curso.petagram.pojo.Mascota;
+import com.curso.coursera.R;
+import com.curso.coursera.adapter.MascotaAdaptador;
+import com.curso.coursera.pojo.Mascota;
 
 import java.util.ArrayList;
 

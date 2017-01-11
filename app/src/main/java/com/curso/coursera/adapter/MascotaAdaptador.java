@@ -1,4 +1,4 @@
-package com.curso.petagram.adapter;
+package com.curso.coursera.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,8 +9,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.curso.petagram.pojo.Mascota;
-import com.curso.petagram.R;
+import com.curso.coursera.pojo.Mascota;
+import com.curso.coursera.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
